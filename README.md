@@ -16,7 +16,7 @@ Um aplicativo desktop simples e elegante para baixar áudio e vídeo do YouTube.
 ## 🚀 Como executar o projeto
 
 ### 📋 Pré-requisitos
-
+- [ffmpeg.exe] (https://www.ffmpeg.org/download.html)
 - [Python 3.10+](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/) (opcional, mas recomendado para clonar)
 - **Windows 10 ou 11** (o aplicativo foi desenvolvido e testado para este SO).
@@ -25,4 +25,4 @@ Um aplicativo desktop simples e elegante para baixar áudio e vídeo do YouTube.
 
 1.  **Clone o repositório** (ou baixe o arquivo `.exe` da seção de releases):
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/manodim-audioprodesigner/Format Download.git
