@@ -24,5 +24,6 @@ Um aplicativo desktop simples e elegante para baixar áudio e vídeo do YouTube.
 ### 🛠️ Instalação e Execução
 
 1.  **Clone o repositório** (ou baixe o arquivo `.exe` da seção de releases):
-    ```bash https://github.com/manodim-audioprodesigner/Format-Download/releases/tag/v.1.0.0 bash 
+
+    https://github.com/manodim-audioprodesigner/Format-Download/releases/tag/v.1.0.0 
 
